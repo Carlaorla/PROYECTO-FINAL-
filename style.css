@@ -1,0 +1,32 @@
+<html> 
+	<body>
+	<style type="text/css">
+		div {
+  display: flex;
+  justify-content: center;
+}
+	<style>
+	div.ex
+	{
+		with: 170px;
+		padding: 10px;
+		border: 5px;
+		marging: 0px;
+	}	
+	body{
+		background: black;
+	}
+	p
+	{
+		border-width: 7px 7px 7px 7px;
+		border-style:ridge;
+		border-color: black;
+		padding-top: 4cm;
+		padding-right: 3cm;
+		padding-left: 2cm;
+		padding-bottom: 2cm;
+	}
+		</style>
+	}
+	</body>
+</html>
